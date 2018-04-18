@@ -1,3 +1,5 @@
+
+
 # InfoJogja
 
 
@@ -32,6 +34,9 @@ and the available trains what you need stopping at the station per a day.
 
 
 Find example on: https://twitter.com/yosiyos38795255/status/986497315052507136
+
+
+If modify the URL on where timetable data is, also can collect information about other stations (e.g. Jakarta etc). 
 
 
 /English Description
