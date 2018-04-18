@@ -1,9 +1,15 @@
-#InfoJogja
+# InfoJogja
+
+
 Is a toolkit for gathering information Jogja (DIY Yogyakarta), using simple codes written in Python.
 
 
 Orginally coded by Yosiyoshi.
-#Contents
+
+
+# Contents
+
+
 1, katt.py
 
 
