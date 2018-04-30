@@ -7,10 +7,10 @@ import requests as web
 import bs4
 import csv
 import collections
-soup = bs4.BeautifulSoup(resp.text, "html.parser")
 
 list_keywd = ['toko','baik','jogja']
 resp = web.get('https://www.google.co.jp/search?num=100&q=' + '　'.join(list_keywd))
+soup = bs4.BeautifulSoup(resp.text, "html.parser")
 resp.raise_for_status()
 
 scr = soup.select('.s > .st')
