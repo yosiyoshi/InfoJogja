@@ -39,6 +39,14 @@ Find example on: https://twitter.com/yosiyos38795255/status/986497315052507136
 If modify the URL on where timetable data is, also can collect information about other stations (e.g. Jakarta etc). 
 
 
+2, tokobaikjogja.py
+
+
+Fetch Google search result and return the best 10 common words.
+
+Defaultly, the search word is "toko baik jogja".
+
+
 /English Description
 
 
